@@ -4,7 +4,7 @@ pragma solidity 0.8.18;
 contract Variables {
 	uint public MyUnit;
 	address public MyAddress;
-    bool public trueorfalse;
+    	bool public trueorfalse;
 	string public Helloworld;
 	
 
