@@ -17,7 +17,7 @@ contract Variables {
 		return MyUnit;
 	}
 
-    function setMyAddress(address _number) public {
+    	function setMyAddress(address _number) public {
 		MyAddress= _number;
 		
 	}
@@ -26,7 +26,7 @@ contract Variables {
 		return MyAddress;
 	}
 	
-    function setTrueorfalse(bool _number) public {
+    	function setTrueorfalse(bool _number) public {
 		trueorfalse = _number;
 		
 	}
